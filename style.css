@@ -62,9 +62,6 @@ img{
     width: 220px;
     height: 220px;
     border-radius: 50%;
-    gap: 80px;
-    padding: 10px 850px;
-    margin-top: 50px ;
     border-width: 10px;
     border-color: blue;
 }
@@ -100,7 +97,6 @@ button {
   border-radius: 15px;
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
   text-align: center;
-  animation: fadeInUp 1s ease;
 }
 .skill-title {
   text-align: center;
